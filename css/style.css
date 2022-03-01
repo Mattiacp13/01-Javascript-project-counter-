@@ -16,6 +16,12 @@ body {
 
 /*counter*/
 
+.title {
+    text-align: center;
+    margin-bottom: 50px;
+    color: #fff;
+}
+
 .projectjs {
     display: flex;
     justify-content: center;
@@ -39,4 +45,16 @@ body {
     font-size: 20px;
     color: #000;
     font-weight: 300;
+}
+
+
+.info {
+    text-align: center;
+    margin-top: 50px;
+    color: #fff;
+}
+
+.info p{
+    margin:50px;
+    font-size:2em;
 }
